@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="Segurança Em 1 Clique: App de segurança pessoal para mulheres, com Arduino" width="100%"></p>
+
 # Documentação do projeto Segurança em um clique: Inovação em segurança para mulheres
 
 ## Visão Geral
